@@ -1,0 +1,44 @@
+{
+  "listName": "Annual chores",
+  "version": 1.0,
+  "elements": [
+    {
+      "description": "Berkeley property taxes part 1",
+      "type": "payment",
+      "dueDateMonth": "December",
+      "dueDateDay": 1,
+      "warningWindowDays": 30,
+      "estimateAmountDue": 2500
+    },
+    {
+      "description": "Berkeley property taxes part 2",
+      "type": "payment",
+      "dueDateMonth": "February",
+      "dueDateDay": 1,
+      "warningWindowDays": 30,
+      "estimateAmountDue": 2500
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name": "Eternal Flame",
+      "age": 1000000,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
